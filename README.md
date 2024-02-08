@@ -1,3 +1,12 @@
+Main Contributors:
+- Angeles, Marcelino Jr.
+- Katigbak, Christian Jericho
+- Manjares, Laurence EJ
+- Tubillo, Xhopia Ysabelle
+
+Date:
+  03/07/2022
+
 •	Description of the Project
 
 The arithmetic operations of the three number systems such as binary, octal, and hexadecimal are the project that the 4 students did. This project allows the user to perform addition, subtraction, multiplication, and division of the three number systems. Moreover, the arithmetic operations of the three number systems do not perform the conversion to achieve the result depending on the type of number system used. The process of computing the number system in the code was the same as how individuals solve and compute in the paper. This project gives ways to individuals to understand the logic behind the process of solving arithmetic operations of the three number systems without using shortcuts, defined methods, and conversion from one type of number system to another type of number system.
